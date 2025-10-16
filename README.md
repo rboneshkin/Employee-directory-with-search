@@ -38,31 +38,6 @@ employee-directory/
 │   └── profile-placeholder.png
 └── /data
     └── employees.json
-```
-
----
-
-⚙️ Installation
-
-1. **Clone this repository**
-
-   ```bash
-   git clone https://github.com/yourusername/employee-directory.git
-   ```
-2. **Navigate into the project**
-
-   ```bash
-   cd employee-directory
-   ```
-3. **Open in your browser**
-
-   ```bash
-   open index.html
-   ```
-
-   or simply double-click the file.
-
-*(If you’re using Firebase or another backend, configure your database URL in `script.js`.)*
 
 ---
 
